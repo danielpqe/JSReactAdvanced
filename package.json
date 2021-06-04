@@ -1,0 +1,27 @@
+{
+  "name": "jsreactadvanced",
+  "version": "1.0.0",
+  "description": "Advanced React course including amazing features as hooks, styled components, react apollo, react router, SEO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielpqe/JSReactAdvanced.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "hooks",
+    "SEO",
+    "react",
+    "router"
+  ],
+  "author": "@danielpqe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielpqe/JSReactAdvanced/issues"
+  },
+  "homepage": "https://github.com/danielpqe/JSReactAdvanced#readme"
+}
